@@ -9,7 +9,7 @@ Real-time Alerts: Sends a notification when an injection attempt is detected.
 Security Enhancement: Provides an additional layer of protection for admin data.
 Technologies Used:
 Python
-Machine Learning (SVM)
+Machine Learning (SVM).
 SQL Database
 Flask/Django (if applicable)
 Twilio/Email API (for alerts, if used)
