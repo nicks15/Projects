@@ -1,4 +1,4 @@
-# Project 2024-25
+# Detecting Data Leaks via SQL Injection
 Title - Detecting Data Leaks via SQL Injection 
 This project focuses on preventing unauthorized access to admin data by detecting SQL injection attacks using the Support Vector Machine (SVM) algorithm. The system monitors database interactions and identifies suspicious queries that attempt to insert unauthorized data. Upon detection of an SQL injection attempt, an alert message is sent to notify the concerned individual.
 
